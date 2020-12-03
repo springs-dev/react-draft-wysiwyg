@@ -347,7 +347,7 @@ export default {
     alt: { present: false, mandatory: false },
     defaultSize: {
       height: "auto",
-      width: "auto"
+      width: "inherit"
     },
     title: undefined
   },
